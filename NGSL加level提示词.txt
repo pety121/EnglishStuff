@@ -1,0 +1,9 @@
+NGSL 2801个单词,用English Profile (CEFR A1-C2) [这是一个AI维护的单词level]标注修正。
+
+两种最快实现方式：
+
+直接获取现成文件：ResearchGate上有已对齐CEFR的NGSL表格（97.2%覆盖率），联系作者或直接下载附录Excel。
+
+Python自动打标：用开源CEFR映射库，几行代码批量处理，1秒完成。
+
+这样既保留NGSL 92%文本覆盖率优势，又通过CEFR标签精准筛选难度，解决“频次≠难度”的痛点。
